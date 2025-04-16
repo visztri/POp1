@@ -50,4 +50,4 @@ private:
     QString operacja;
     Kalkulator kalkulator;
 };
-#endif // MAINWINDOW_H
+#endif 
