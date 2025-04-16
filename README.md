@@ -21,3 +21,6 @@ Po uruchomieniu okna, naszym oczom ukazuje się kalkulator. Działa on w ten spo
 wybieramy jedną z operacji, po wybraniu operacji wybieramy kolejną liczbę i wciskamy "=" aby otrzymac wynik. Następnie operujemy wynikiem, który wyświetla się na górze, możemy coś 
 do niego dodac lub zastosować inną z dostępnych operacji. W przypadku gdy chcemy zrobić konwersje liczby wpisujemy interesującą nas wartość w pole dziesiętne i klikamy konwertuj 
 aby poznac interesujące nas konwersje. Po kliknięciu przycisku i w lewym górnym rogu wyskoczy okienko z informacjami autorze. Przycisk C czyści pamięć oraz to co aktualnie wpisaliśmy.
+
+
+Autor : Jakub Hojeński 287173
